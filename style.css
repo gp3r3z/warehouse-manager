@@ -1,0 +1,8 @@
+.bg-img {
+  background-image: url("https://images.unsplash.com/photo-1628495359998-48e663a82b74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2808&q=80");
+  background-size: cover;
+}
+
+.label {
+  color: black;
+}
